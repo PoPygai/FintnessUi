@@ -22,5 +22,5 @@ HTML5 – semantic structure
 CSS3 – styling, flexbox, grid, animations
 
 ```bash
-git clone https://github.com/your-username/fitness-website.git
+git clone https://github.com/PoPygai/FintnessUi
 cd fitness-website
